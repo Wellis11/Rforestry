@@ -1,0 +1,11 @@
+Package: Rforestry
+Type: Package
+Title: Calculate Forestry Measures
+Version: 0.1.0
+Author: William Ellis
+Maintainer: wellis@usf.edu 
+Description: This package when given tree diameter and distances
+from randomly placed centerpoints calculates forest density and
+basal area.
+License: CC0
+LazyData: true
